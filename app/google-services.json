@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "469762069705",
+    "firebase_url": "https://newattendance-4a708.firebaseio.com",
+    "project_id": "newattendance-4a708",
+    "storage_bucket": "newattendance-4a708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469762069705:android:617fcd9bcb75cfab",
+        "android_client_info": {
+          "package_name": "com.patelheggere.newattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469762069705-9a8cvs7i9o9kouortkdbrk0pihjvpkb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patelheggere.newattendance",
+            "certificate_hash": "31f193b39e94e6b1d609010f4fe9be4db314c4a9"
+          }
+        },
+        {
+          "client_id": "469762069705-mjauhfa2eieh20febeqor3cnbvla8rcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCReN0MXfSNkJM5bkS3s5VoYAk84f7LFV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469762069705-mjauhfa2eieh20febeqor3cnbvla8rcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
